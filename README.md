@@ -17,5 +17,5 @@ It features a collection of coding challenges, known as "kata", in various progr
 Users can solve these challenges and submit their solutions, which are then ranked and evaluated based on their correctness and efficiency.
 
 <p align="center" width="100%">
-    <img src="https://www.codewars.com/users/ColletCodes/badges/large"> 
+    <a href="https://www.codewars.com/users/ColletCodes"><img src="https://www.codewars.com/users/ColletCodes/badges/large"> </a>
 </p>
