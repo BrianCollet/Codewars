@@ -5,7 +5,7 @@
         <p></p>
         <pre><img src="https://avatars.githubusercontent.com/u/5387632?s=100"></pre>
       </td>
-      <td><h1><a href="https://www.codewars.com/kata/559590633066759614000063">The highest profit wins!</a></h1></td>
+      <td><h1><a href="https://www.codewars.com/kata/559590633066759614000063">The Highest Profit Wins!</a></h1></td>
     </tr>
   </tbody>
 </table>
