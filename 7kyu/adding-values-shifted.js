@@ -1,3 +1,0 @@
-function addingShifted (arrayOfArrays, shift) {
-  
-}
