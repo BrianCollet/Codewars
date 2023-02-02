@@ -1,3 +1,0 @@
-function rowSumOddNumbers(n) {
-	// TODO
-}
