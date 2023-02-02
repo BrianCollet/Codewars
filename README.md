@@ -10,12 +10,10 @@
   </tbody>
 </table>
 
-<div align="center">
 <p align="center">Codewars is a website that provides a platform for practicing and improving programming skills.</p>
 
 <p align="center">It features a collection of coding challenges, known as "kata", in various programming languages.</p>
 
 <p align="center">Users can solve these challenges and submit their solutions, which are then ranked and evaluated based on their correctness and efficiency.</p>
-</div>
 
 ![alt rank](https://www.codewars.com/users/ColletCodes/badges/large)
