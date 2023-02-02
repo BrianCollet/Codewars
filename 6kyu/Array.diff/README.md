@@ -5,7 +5,7 @@
         <p></p>
         <pre><img src="https://avatars.githubusercontent.com/u/5387632?s=100"></pre>
       </td>
-      <td><h1><a href="https://www.codewars.com/">Codewars</a></h1></td>
+      <td><h1><a href="https://www.codewars.com/kata/523f5d21c841566fde000009">Array.diff</a></h1></td>
     </tr>
   </tbody>
 </table>
