@@ -5,7 +5,7 @@
         <p></p>
         <pre><img src="https://avatars.githubusercontent.com/u/5387632?s=100"></pre>
       </td>
-      <td><h1><a href="https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7">Filter out the geese</a></h1></td>
+      <td><h1><a href="https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7">Filter Out the Geese</a></h1></td>
     </tr>
   </tbody>
 </table>
