@@ -10,8 +10,13 @@
   </tbody>
 </table>
 
-Codewars is a website that provides a platform for practicing and improving programming skills. 
+# Description
+Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 
-It features a collection of coding challenges, known as "kata", in various programming languages. 
+It should remove all values from list **a**, which are present in list b keeping their order.
 
-Users can solve these challenges and submit their solutions, which are then ranked and evaluated based on their correctness and efficiency.
+`arrayDiff([1,2],[1]) == [2]`
+
+If a value is present in **b**, all of its occurrences must be removed from the other:
+
+`arrayDiff([1,2,2,2,3],[2]) == [1,3]`
